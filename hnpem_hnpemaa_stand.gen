@@ -1,0 +1,7 @@
+#import model ALP_scalarFF
+import model sm_HNax --modelname
+generate hn+ e- > hn+ e- a a / ax hn+
+display diagrams
+output standalone hnpem_hnpemaa_stand
+y
+exit
